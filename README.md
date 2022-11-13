@@ -5,5 +5,5 @@ microsoft store api
 
 # Use
 ```
-need productID
+need productID (app)
 ```
