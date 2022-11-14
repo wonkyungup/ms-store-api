@@ -1,7 +1,9 @@
 # ms-store-api
 microsoft store api
 
-## We are currently undergoing ACM certification.
+## Local testing and deployment complete
+
+## Date of writing of the document (20221120)
 
 # Use
 ```
