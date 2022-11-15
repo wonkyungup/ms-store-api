@@ -18,9 +18,8 @@ To get your product ID, please do the following:
 
 #### If you have a product ID, send method Get to the corresponding API address.
 - **https://api.for-developer.link/msstore/app/{productID}**
-
+* Please note that it will take some time (5-10 seconds)
 - Get it as JSON type:
-* This will take some time. (5-10 seconds)
 ```
 {
   "name": "Adobe Express",
