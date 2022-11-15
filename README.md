@@ -13,7 +13,8 @@ To get your product ID, please do the following:
 1. Open [MS-Store](https://apps.microsoft.com/store/apps) browser 
 2. Please click on the product you want
 3. The ID at the end of the Internet address is the product ID
-![](../../Downloads/get-ms-store-productid.gif)
+![get-ms-store-productid](https://user-images.githubusercontent.com/34180230/201943867-12261a29-0b2f-427a-bef4-acd269be8b63.gif)
+
 
 #### If you have a product ID, send method Get to the corresponding API address.
 - **https://api.for-developer.link/msstore/app/{productID}**
