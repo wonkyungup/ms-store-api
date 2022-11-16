@@ -38,8 +38,8 @@ To get your product ID, please do the following:
 ```
 
 ### Precautions when using
-- `Sometimes, if you don't get results, try after a few minutes.`
-- `Because it is a personal project, the service can be stopped at any time in the event of a problem.`
+- Sometimes, if you don't get results, try after a few minutes
+- Because it is a personal project, the service can be stopped at any time in the event of a problem
 
 ### Questions
-- `Please register on the issue card` 
+- Please register on the issue card
