@@ -1,4 +1,4 @@
-# MS-Store-api
+# Microsoft-Store-api
 
 ## Contents
 
