@@ -1,6 +1,6 @@
 {
   "name": "ms-store-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ms-store-api",
   "main": "handler.js",
   "private": "true",
@@ -21,11 +21,9 @@
     "webpack-node-externals": "3.0.0"
   },
   "dependencies": {
-    "axios": "1.2.0",
     "cheerio": "1.0.0-rc.12",
     "chrome-aws-lambda": "10.1.0",
     "puppeteer": "19.2.2",
-    "puppeteer-core": "10.4.0",
-    "zlib": "1.0.5"
+    "puppeteer-core": "10.4.0"
   }
 }
